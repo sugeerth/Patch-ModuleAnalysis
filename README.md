@@ -3,7 +3,7 @@
 The tool works in conjunction with the Box Fish 
 https://github.com/LLNL/boxfish
 
-[![ScreenShot](https://photos.smugmug.com/My-First-Gallery/i-2h99ZNX/0/X3/PatchModule-X3.png)](https://vimeo.com/165523412))](https://vimeo.com/165523412)
+[![ScreenShot](https://photos.smugmug.com/My-First-Gallery/i-2h99ZNX/0/X3/PatchModule-X3.png)]
 
 
 # Patch Module #
