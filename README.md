@@ -1,4 +1,4 @@
-# Interactive Visual Analysis of Patch Module Data in SuperComputers #
+# Interactive Visual Analysis of Patch Module Data in the Analysis of log files from SuperComputers #
 
 The tool works in conjunction with the Box Fish 
 https://github.com/LLNL/boxfish
