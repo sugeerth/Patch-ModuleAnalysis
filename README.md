@@ -1,4 +1,4 @@
-# Interactive Visual Analysis of Patch Module Data in the Analysis of log files from SuperComputers #
+# Interactive Explosion Visualization of Patch Module Data in the Analysis of log files from SuperComputers #
 
 The area of analyzing and visualizing complicated data in the context of supercomputer applications---multi-core computer architectures that require us to devisenew ways of visaulizing system data and understanding system behavior. 
 
